@@ -1,3 +1,4 @@
+# test comment
 import selenium
 from selenium import webdriver
 import time
@@ -5,7 +6,7 @@ import smtplib
 
 while True:
 
-    path = "C:/Users/Swati/PycharmProjects/Amazon Price Tracker/chromedriver.exe"
+    path = "C:/Users/Swati/PycharmProjects/AmazonPriceTracker/Amazon Price Tracker/chromedriver.exe"
 
     driver = selenium.webdriver.Chrome(path)
 
