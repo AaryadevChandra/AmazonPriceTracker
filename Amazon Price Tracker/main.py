@@ -47,4 +47,4 @@ while True:
 
     send_mail()
     driver.close()
-    time.sleep(60 * 60 * 24)  # program will run every 24 hours
+    time.sleep(60 * 60 * 24)  # program will run every 24 hourssss
