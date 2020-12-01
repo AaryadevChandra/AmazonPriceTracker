@@ -5,7 +5,7 @@ import smtplib
 
 while True:
 
-    path = "C:/Users/Swati/PycharmProjects/AmazonPriceTracker/Amazon Price Tracker/chromedriver.exe"
+    path = "DirectoryContainingChromedriver.exe/chromedriver.exe"
 
     driver = selenium.webdriver.Chrome(path)
 
